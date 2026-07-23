@@ -87,7 +87,7 @@
       "abi": "arm64-v8a",
       "pageSize": 4096,
       "exploit": {
-        "url": "https://raw.githubusercontent.com/fusiondrive/Root-My-Galaxy-Payloads/main/artifacts/s928b-S928BXXS6DZF2/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/CristianGustav/Root-My-Galaxy-Payloads/main/artifacts/s928b-S928BXXS6DZF2/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {
